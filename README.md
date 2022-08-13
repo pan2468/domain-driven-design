@@ -7,5 +7,7 @@
 + <a href="https://github.com/pan2468/domain-driven-design/blob/main/1%EC%9E%A5%20%EB%82%98%EC%97%90%EA%B2%8C%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%EB%8A%94/%EC%A0%84%EB%9E%B5%EC%A0%81%20%EC%84%A4%EA%B3%84.md">전략적 설계</a> 
 + <a href="">전술적 설계</a> 
 
+### <strong>2장 바운디드 컨텍스트 및 보편언어와 전략적 설계</strong>
+
 
 
